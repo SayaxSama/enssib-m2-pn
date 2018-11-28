@@ -56,4 +56,6 @@ Rejoindre le portail `atom://teletype/portal/e51d8ce0-c644-499f-a234-41f58073760
 - Appoline : L'IA et la disruption appliquée à la publication numérique	
 - Alix : La publication numérique et la richesse des savoirs 
 - Al : Les plateformes d'édition en OA et la publication scientifique
+- Maud : Livre numérique et gamification : dynamiser les stratégies éditoriales
+- Mellie : Webtoons et DRM en France
 
